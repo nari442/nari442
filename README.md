@@ -1,2 +1,2 @@
 ## hiiiiii :3<br>
-check out https://sloppychat.vercel.app
+check out https://chat.nari442.de/
