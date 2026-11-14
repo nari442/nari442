@@ -1,0 +1,9 @@
+<svg width="900" height="175" viewBox="0 0 900 175" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.75" y="0.75" width="898.5" height="173.5" rx="14" fill="#0A0A0A" stroke="#222222" stroke-width="1.5" />
+  <text x="36" y="34" fill="#737373" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="1.5">[01]   ABOUT</text>
+  
+  <text x="36" y="76" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-weight="700" font-size="26">Building clean, fast & private web tools</text>
+  
+  <text x="36" y="114" fill="#A3A3A3" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="15">Creating minimalist web applications and self-hosted infrastructure —</text>
+  <text x="36" y="136" fill="#A3A3A3" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="15">focused on speed, simplicity, and zero tracking.</text>
+</svg>
