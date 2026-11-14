@@ -1,35 +1,34 @@
 <div align="center">
 
-<a href="https://nari442.de">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-    <img alt="nari442" src="./assets/banner-light.svg" width="100%">
-  </picture>
-</a>
+  <a href="https://nari442.de">
+    <img src="./assets/banner-dark.svg" alt="nari442" width="100%">
+  </a>
 
-<br>
+  <br><br>
 
-<a href="https://nari442.de"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-portfolio-dark.svg"><img alt="nari442.de" src="./assets/btn-portfolio-light.svg"></picture></a>
-<a href="https://s.nari442.de"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-shortener-dark.svg"><img alt="Shortener" src="./assets/btn-shortener-light.svg"></picture></a>
-<a href="https://chat.nari442.de"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-chat-dark.svg"><img alt="Chat" src="./assets/btn-chat-light.svg"></picture></a>
+  <p align="left">
+    <a href="https://nari442.de"><img src="./assets/btn-portfolio-dark.svg" alt="nari442.de"></a>&nbsp;
+    <a href="https://s.nari442.de"><img src="./assets/btn-shortener-dark.svg" alt="Shortener"></a>&nbsp;
+    <a href="https://chat.nari442.de"><img src="./assets/btn-chat-dark.svg" alt="Chat"></a>
+  </p>
 
-<br><br>
+  <a href="https://nari442.de">
+    <img src="./assets/about-dark.svg" alt="About nari442" width="100%">
+  </a>
 
-<a href="https://nari442.de">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/about-dark.svg">
-    <img alt="About nari442" src="./assets/about-light.svg" width="100%">
-  </picture>
-</a>
+  <br><br>
 
-<a href="https://nari442.de"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-portfolio-dark.svg"><img alt="Portfolio" src="./assets/card-portfolio-light.svg" width="49.5%"></picture></a>
-<a href="https://s.nari442.de"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-shortener-dark.svg"><img alt="URL Shortener" src="./assets/card-shortener-light.svg" width="49.5%"></picture></a>
+  <a href="https://nari442.de"><img src="./assets/card-portfolio-dark.svg" alt="Portfolio" width="49.2%"></a>
+  <a href="https://s.nari442.de"><img src="./assets/card-shortener-dark.svg" alt="URL Shortener" width="49.2%"></a>
 
-<a href="https://chat.nari442.de">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/card-chat-dark.svg">
-    <img alt="Chat" src="./assets/card-chat-light.svg" width="100%">
-  </picture>
-</a>
+  <br><br>
+
+  <a href="https://chat.nari442.de">
+    <img src="./assets/card-chat-dark.svg" alt="Chat Instance" width="100%">
+  </a>
+
+  <br><br>
+
+  <img src="./assets/footer-dark.svg" alt="Footer" width="100%">
 
 </div>
