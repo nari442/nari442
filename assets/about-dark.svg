@@ -1,0 +1,33 @@
+<svg width="900" height="260" viewBox="0 0 900 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Card Background & Border -->
+  <rect x="0.75" y="0.75" width="898.5" height="258.5" rx="14" fill="#0A0A0A" stroke="#222222" stroke-width="1.5" />
+
+  <!-- Top Label -->
+  <text x="36" y="34" fill="#737373" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="1.5">[01]   ABOUT</text>
+
+  <!-- Main Heading & Right Subtext -->
+  <text x="36" y="76" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-weight="700" font-size="26">Building clean & private web tools</text>
+  
+  <text x="864" y="64" fill="#737373" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="12" text-anchor="end">Minimalist design — built for speed</text>
+  <text x="864" y="80" fill="#737373" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="12" text-anchor="end">and self-hosted independence.</text>
+
+  <!-- Description -->
+  <text x="36" y="114" fill="#A3A3A3" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="15">Focused on creating fast web applications and privacy-first utilities without</text>
+  <text x="36" y="136" fill="#A3A3A3" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="15">unnecessary bloat, ads, or tracking.</text>
+
+  <!-- Subtle Divider -->
+  <line x1="36" y1="164" x2="864" y2="164" stroke="#1A1A1A" stroke-width="1" />
+
+  <!-- Bottom Metrics (4 Columns) -->
+  <text x="36" y="204" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-weight="800" font-size="26">100%</text>
+  <text x="36" y="224" fill="#737373" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="1">PRIVACY FIRST</text>
+
+  <text x="250" y="204" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-weight="800" font-size="26">0</text>
+  <text x="250" y="224" fill="#737373" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="1">ADS & TRACKERS</text>
+
+  <text x="465" y="204" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-weight="800" font-size="26">3+</text>
+  <text x="465" y="224" fill="#737373" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="1">LIVE SERVICES</text>
+
+  <text x="680" y="204" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-weight="800" font-size="26">24/7</text>
+  <text x="680" y="224" fill="#737373" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="1">SELF-HOSTED</text>
+</svg>
